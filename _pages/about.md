@@ -19,33 +19,33 @@ Publications
 Conference Papers
 ------
 
-> *Detecting Fraudulent Services on Quantum Cloud Platforms via Dynamic Fingerprinting* <br>
+> Detecting Fraudulent Services on Quantum Cloud Platforms via Dynamic Fingerprinting <br>
 > **Jindi Wu**, Tianjie Hu, and Qun Li <br> 
-> _43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24)_ \| [Paper](https://arxiv.org/pdf/2408.11203)
+> 43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24) \| [Paper](https://arxiv.org/pdf/2408.11203)
 
 > Quantum Network Routing Based on Surface Code Error Correction <br>
 >  Tianjie Hu, **Jindi Wu**, and Qun Li <br> 
-> _44th IEEE International Conference on Distributed Computing Systems (ICDCS'24)_ \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10631008)  
+> 44th IEEE International Conference on Distributed Computing Systems (ICDCS'24) \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10631008)  
 
 > MORE: Measurement and Correlation-based Variational Quantum Circuit for Multi-classification <br>
 > **Jindi Wu**, Tianjie Hu, and Qun Li <br> 
-> _4th IEEE International Conference on Quantum Computing and Engineering (QCE'23)_ \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10313792)
+> 4th IEEE International Conference on Quantum Computing and Engineering (QCE'23) \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10313792)
 
 > Laws: Look around and warm-start natural gradient descent for quantum neural networks <br>
 >  Zeyi Tao, ** Jindi Wu**, and Qun Li <br> 
-> _2rd IEEE International Conference on Quantum Software (QSW'23)_ \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234243)  
+> 2rd IEEE International Conference on Quantum Software (QSW'23) \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234243)  
 
 > Scalable Quantum Neural Networks for Classification <br>
 > **Jindi Wu**, Zeyi Tao, and Qun Li <br> 
-> _3rd IEEE International Conference on Quantum Computing and Engineering (QCE'22)_ \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9951212)
+> 3rd IEEE International Conference on Quantum Computing and Engineering (QCE'22) \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9951212)
 
 > Efficient Privacy-Preserving Federated Learning for Resource-Constrained Edge Devices <br>
 > **Jindi Wu**, Qi Xia, and Qun Li <br> 
-> _17th International Conference on Mobility, Sensing and Networking (MSN'21)_ \| [Paper](https://par.nsf.gov/servlets/purl/10358911)
+> 17th International Conference on Mobility, Sensing and Networking (MSN'21) \| [Paper](https://par.nsf.gov/servlets/purl/10358911)
 
 > SAFE: Similarity-aware multi-modal fake news detection <br>
 > Xinyi Zhou\*, **Jindi Wu**\*, and Reza Zafarani <br> 
-> _24th Pacific-Asia Conference on knowledge discovery and data mining (PAKDD'20)_ \| [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206257/)
+> 24th Pacific-Asia Conference on knowledge discovery and data mining (PAKDD'20) \| [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206257/)
 
 
 
@@ -54,6 +54,22 @@ Conference Papers
 
 Journal & Magazine Articles
 ------
+
+> Q-ID: Lightweight Quantum Network Server Identification through Fingerprinting <br>
+> **Jindi Wu**, Tianjie Hu, and Qun Li <br> 
+> IEEE Network (2024) \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10530432)
+
+> Distributed Quantum Machine Learning: Federated and Model-Parallel Approaches <br>
+> **Jindi Wu**, Tianjie Hu, and Qun Li <br> 
+> IEEE Internet Computing 28.2 (2024): 65-72. \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10508212)
+
+> SurfaceNet: Fault-Tolerant Quantum Networks with Surface Codes <br>
+> Tianjie Hu, **Jindi Wu**, and Qun Li <br> 
+> IEEE Network (2023) \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10288502)
+
+> A survey of federated learning for edge computing: Research problems and solutions <br>
+> Qi Xia, Winson Ye, Zeyi Tao, **Jindi Wu**, and Qun Li <br> 
+> High-Confidence Computing 1.1 (2021): 100008. (HCC'21) \| [Paper](https://www.sciencedirect.com/science/article/pii/S266729522100009X)
 
 
 Poster
