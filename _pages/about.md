@@ -24,11 +24,11 @@ Conference Papers
 
 > Quantum Network Routing Based on Surface Code Error Correction <br>
 >  Tianjie Hu, ** Jindi Wu**, and Qun Li <br> 
-> _44th IEEE International Conference on Distributed Computing Systems (ICDCS'24)_ \| [Paper]([https://arxiv.org/pdf/2408.11203](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10631008)  
+> _44th IEEE International Conference on Distributed Computing Systems (ICDCS'24)_ \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10631008)  
 
 > MORE: Measurement and Correlation-based Variational Quantum Circuit for Multi-classification <br>
 > **Jindi Wu**, Tianjie Hu, and Qun Li <br> 
-> _4th IEEE International Conference on Quantum Computing and Engineering (QCE'23)_ \| [Paper]([https://arxiv.org/pdf/2408.11203](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10313792)
+> _4th IEEE International Conference on Quantum Computing and Engineering (QCE'23)_ \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10313792)
 
 > Laws: Look around and warm-start natural gradient descent for quantum neural networks <br>
 >  Zeyi Tao, ** Jindi Wu**, and Qun Li <br> 
@@ -43,7 +43,7 @@ Conference Papers
 > _17th International Conference on Mobility, Sensing and Networking (MSN'21)_ \| [Paper](https://par.nsf.gov/servlets/purl/10358911)
 
 > SAFE: Similarity-aware multi-modal fake news detection <br>
-> Xinyi Zhou<sup>*</sup>, **Jindi Wu**<sup>*</sup>, and Reza Zafarani <br> 
+> Xinyi Zhou\*, **Jindi Wu**\*, and Reza Zafarani <br> 
 > _24th Pacific-Asia Conference on knowledge discovery and data mining (PAKDD'20)_ \| [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206257/)
 
 
