@@ -17,8 +17,8 @@ Publications
 Conference Papers
 ------
 
-> Detecting Fraudulent Services on Quantum Cloud Platforms via Dynamic Fingerprinting  
-> **Jindi Wu**, Tianjie Hu, and Qun Li  
+> Detecting Fraudulent Services on Quantum Cloud Platforms via Dynamic Fingerprinting <br>
+> **Jindi Wu**, Tianjie Hu, and Qun Li <br> 
 > _43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24)_ \| [Paper](https://arxiv.org/pdf/2408.11203)  
 
 
