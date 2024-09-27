@@ -16,7 +16,7 @@ Professional Experience
 ======
 
 <style>
-    blockquote {
+    .blue-quote {
         border-left: 4px solid #0077b6; /* Orange border */
         background-color: #f8f9fa; /* Light grey background */
         color: #333; /* Dark grey text color */
@@ -50,7 +50,7 @@ Publications
 \* means equal contribution
 
 <style>
-    blockquote {
+    .green-quote {
         border-left: 4px solid #92e6a7; /* Orange border */
         background-color: #f8f9fa; /* Light grey background */
         color: #333; /* Dark grey text color */
@@ -61,10 +61,11 @@ Publications
 
 Conference Papers
 ------
-
+<blockquote class="green-quote">
 > Detecting Fraudulent Services on Quantum Cloud Platforms via Dynamic Fingerprinting <br>
 > **Jindi Wu**, Tianjie Hu, and Qun Li <br> 
 > 43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24) \| [Paper](https://arxiv.org/pdf/2408.11203)
+</blockquote>
 
 > Quantum Network Routing Based on Surface Code Error Correction <br>
 >  Tianjie Hu, **Jindi Wu**, and Qun Li <br> 
