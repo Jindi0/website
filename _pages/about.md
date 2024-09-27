@@ -14,6 +14,7 @@ I am a fifth-year PhD candidate in the Department of Computer Science at [Willia
 
 Publications
 ======
+\* means equal contribution
 
 Conference Papers
 ------
