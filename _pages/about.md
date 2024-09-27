@@ -12,38 +12,25 @@ I am a fifth-year PhD candidate in the Department of Computer Science at [Willia
 <br>
 <br>
 
-Research Experience
+Professional Experience
 ======
-<ul class="timeline">
-  <li class="timeline-event">
-    <label class="timeline-event-icon"></label>
-    <div class="timeline-event-copy">
-      <p class="timeline-event-thumbnail">April 2011 - heute</p>
-      <h3>Geil,Danke! GmbH</h3>
-      <h4>Geschäftsführerin eines Web-Studios</h4>
-      <p><strong>Schwerpunkt: Frontend-Entwicklung</strong><br>Entwickeln von anspruchsvollen, animierten, responsive und adaptive Webseiten mit HTML5, SCSS, jQuery; für alle Browser, optimiert für Desktop, Notebook, Smartphones und Tablets (iOS, Android, Windows).</p>
-      <p><strong>Projektmanagement mit Scrum</strong><br>Ständiges Verbessern des agilen Entwicklungsprozesses beispielsweise durch Grunt, Yeoman, GIT, JIRA und BrowserStack.</p>
-    </div>
-  </li>
-  <li class="timeline-event">
-    <label class="timeline-event-icon"></label>
-    <div class="timeline-event-copy">
-      <p class="timeline-event-thumbnail">November 2009 - März 2011</p>
-      <h3>Freelancer</h3>
-      <h4>Designer und Autor</h4>
-      <p>Konzeption, Design und Produktion von Digitalen Magazinen mit InDesign, der Adobe Digital Publishing Suite und HTML5. Co-Autorin der Fachbücher "Digitales Publizieren für Tablets" und "Adobe Digital Publishing Suite" erschienen im dpunkt.verlag.</p>
-    </div>
-  </li>
-  <li class="timeline-event">
-    <label class="timeline-event-icon"></label>
-    <div class="timeline-event-copy">
-      <p class="timeline-event-thumbnail">April 2011 - heute</p>
-      <h3>konplan gmbh</h3>
-      <h4>IT-Consultant</h4>
-      <p><strong>Systemarchitektur, Consulting</strong><br>Konzeption und Modellierung von Systemen und APIs für Digital Publishing und Entitlement nach SOA</p>
-    </div>
-  </li>
-</ul>  
+
+- Research Assistant (Sep 2020 - Present)
+- Department of Computer Science, William & Mary
+- Advisor: Prof. Qun Li
+
+<style>
+    blockquote {
+        border-left: 4px solid #ffa500; /* Orange border */
+        background-color: #f0f0f0; /* Light grey background */
+        color: #333; /* Dark grey text color */
+        padding: 10px 20px;
+        margin: 20px;
+    }
+</style>
+
+> This is a quote that now has an orange border, light grey background, and dark grey text.
+
 
 Publications
 ======
