@@ -14,74 +14,36 @@ I am a fifth-year PhD candidate in the Department of Computer Science at [Willia
 
 Research Experience
 ======
-<style>
-.timeline {
-    position: relative;
-    max-width: 1200px; /* Adjust based on your layout */
-    list-style: none;
-    padding: 20px 0;
-}
-.timeline::after {
-    content: '';
-    position: absolute;
-    width: 6px;
-    background-color: #f1f1f1;
-    top: 0;
-    bottom: 0;
-    left: 50%;
-    margin-left: -3px;
-}
-.container {
-    padding: 10px 40px;
-    position: relative;
-    background-color: inherit;
-    width: 50%;
-}
-.container.left {
-    left: 0;
-}
-.container.right {
-    left: 50%;
-}
-.content {
-    padding: 20px 30px;
-    background-color: #fff;
-    position: relative;
-    border-radius: 6px;
-    border: 1px solid #ddd;
-}
-@media screen and (max-width: 600px) {
-  .container {
-      width: 100%;
-      padding-left: 70px;
-      padding-right: 25px;
-  }
-  .container.left, .container.right {
-      left: 0;
-  }
-}
-</style>
-
 <ul class="timeline">
-    <li class="container left">
-        <div class="content">
-            <h2>2024</h2>
-            <p>Presented at Quantum Tech Conference on improving qubit reliability.</p>
-        </div>
-    </li>
-    <li class="container right">
-        <div class="content">
-            <h2>2023</h2>
-            <p>Published paper on Quantum Error Correction in the Journal of Quantum Computing.</p>
-        </div>
-    </li>
-    <li class="container left">
-        <div class="content">
-            <h2>2022</h2>
-            <p>Developed a new algorithm for scalable quantum neural networks, presented findings at ICCAD.</p>
-        </div>
-    </li>
-</ul>
+  <li class="timeline-event">
+    <label class="timeline-event-icon"></label>
+    <div class="timeline-event-copy">
+      <p class="timeline-event-thumbnail">April 2011 - heute</p>
+      <h3>Geil,Danke! GmbH</h3>
+      <h4>Geschäftsführerin eines Web-Studios</h4>
+      <p><strong>Schwerpunkt: Frontend-Entwicklung</strong><br>Entwickeln von anspruchsvollen, animierten, responsive und adaptive Webseiten mit HTML5, SCSS, jQuery; für alle Browser, optimiert für Desktop, Notebook, Smartphones und Tablets (iOS, Android, Windows).</p>
+      <p><strong>Projektmanagement mit Scrum</strong><br>Ständiges Verbessern des agilen Entwicklungsprozesses beispielsweise durch Grunt, Yeoman, GIT, JIRA und BrowserStack.</p>
+    </div>
+  </li>
+  <li class="timeline-event">
+    <label class="timeline-event-icon"></label>
+    <div class="timeline-event-copy">
+      <p class="timeline-event-thumbnail">November 2009 - März 2011</p>
+      <h3>Freelancer</h3>
+      <h4>Designer und Autor</h4>
+      <p>Konzeption, Design und Produktion von Digitalen Magazinen mit InDesign, der Adobe Digital Publishing Suite und HTML5. Co-Autorin der Fachbücher "Digitales Publizieren für Tablets" und "Adobe Digital Publishing Suite" erschienen im dpunkt.verlag.</p>
+    </div>
+  </li>
+  <li class="timeline-event">
+    <label class="timeline-event-icon"></label>
+    <div class="timeline-event-copy">
+      <p class="timeline-event-thumbnail">April 2011 - heute</p>
+      <h3>konplan gmbh</h3>
+      <h4>IT-Consultant</h4>
+      <p><strong>Systemarchitektur, Consulting</strong><br>Konzeption und Modellierung von Systemen und APIs für Digital Publishing und Entitlement nach SOA</p>
+    </div>
+  </li>
+</ul>  
 
 Publications
 ======
