@@ -23,7 +23,7 @@ Conference Papers
 > _43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24)_ \| [Paper](https://arxiv.org/pdf/2408.11203)
 
 > Quantum Network Routing Based on Surface Code Error Correction <br>
->  Tianjie Hu, ** Jindi Wu**, and Qun Li <br> 
+>  Tianjie Hu, **Jindi Wu**, and Qun Li <br> 
 > _44th IEEE International Conference on Distributed Computing Systems (ICDCS'24)_ \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10631008)  
 
 > MORE: Measurement and Correlation-based Variational Quantum Circuit for Multi-classification <br>
@@ -32,7 +32,7 @@ Conference Papers
 
 > Laws: Look around and warm-start natural gradient descent for quantum neural networks <br>
 >  Zeyi Tao, ** Jindi Wu**, and Qun Li <br> 
-> _2rd IEEE International Conference on Quantum Software (QSW'23)_ \| [Paper]([[https://arxiv.org/pdf/2408.11203](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10631008)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234243)  
+> _2rd IEEE International Conference on Quantum Software (QSW'23)_ \| [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234243)  
 
 > Scalable Quantum Neural Networks for Classification <br>
 > **Jindi Wu**, Zeyi Tao, and Qun Li <br> 
