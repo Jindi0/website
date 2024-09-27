@@ -15,27 +15,49 @@ I am a fifth-year PhD candidate in the Department of Computer Science at [Willia
 Professional Experience
 ======
 
-- Research Assistant (Sep 2020 - Present)
-- Department of Computer Science, William & Mary
-- Advisor: Prof. Qun Li
-- 
-
 <style>
     blockquote {
-        border-left: 4px solid #ffa500; /* Orange border */
-        background-color: #f0f0f0; /* Light grey background */
+        border-left: 4px solid #0077b6; /* Orange border */
+        background-color: #f8f9fa; /* Light grey background */
         color: #333; /* Dark grey text color */
         padding: 10px 20px;
         margin: 20px;
     }
 </style>
 
-> This is a quote that now has an orange border, light grey background, and dark grey text.
+> Research Assistant (Sep 2020 - Present) <br>
+> &nbsp; &nbsp; Department of Computer Science, William & Mary <br>
+> &nbsp; &nbsp; Advisor: Prof. Qun Li
+> &nbsp; &nbsp; Quantum Computing and Federated Learning
 
+> Graduate Assistant (May 2019 - Sep. 2020) <br>
+> &nbsp; &nbsp; Machine Learning Lab, Syracuse University <br>
+> &nbsp; &nbsp; Advisor: Prof. Qinru Qiu <br>
+> &nbsp; &nbsp; UAV Trajectory Planning and Real-time Simulation
+
+> Graduate Assistant (Mar. 2019 - Jan. 2020) <br>
+> &nbsp; &nbsp; Data Lab Lab, Syracuse University <br>
+> &nbsp; &nbsp; Advisor: Prof. Reza Zafarani and Dr. Xinyi Zhou <br>
+> &nbsp; &nbsp; Fake News Detection
+
+> Undergraduate Assistant (Mar. 2019 - Jan. 2020) <br>
+> &nbsp; &nbsp; Intelligent Aviation Computing Systems Lab, Nanjing University of Aeronautics and Astronautics <br>
+> &nbsp; &nbsp; Advisor: Prof. Lisong Wang <br>
+> &nbsp; &nbsp; Development of Safety-Critical Software
 
 Publications
 ======
 \* means equal contribution
+
+<style>
+    blockquote {
+        border-left: 4px solid #92e6a7; /* Orange border */
+        background-color: #f8f9fa; /* Light grey background */
+        color: #333; /* Dark grey text color */
+        padding: 10px 20px;
+        margin: 20px;
+    }
+</style>
 
 Conference Papers
 ------
