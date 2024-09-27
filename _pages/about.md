@@ -25,10 +25,12 @@ Professional Experience
     }
 </style>
 
+<blockquote class="blue-quote">
 > *Research Assistant* (Sep 2020 - Present) <br>
 > &nbsp; &nbsp; Department of Computer Science, William & Mary <br>
 > &nbsp; &nbsp; Advisor: Prof. Qun Li <br>
 > &nbsp; &nbsp; Quantum Computing and Federated Learning
+</blockquote>
 
 > Graduate Assistant (May 2019 - Sep. 2020) <br>
 > &nbsp; &nbsp; Machine Learning Lab, Syracuse University <br>
