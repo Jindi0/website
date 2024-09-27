@@ -12,6 +12,77 @@ I am a fifth-year PhD candidate in the Department of Computer Science at [Willia
 <br>
 <br>
 
+Research Experience
+======
+<style>
+.timeline {
+    position: relative;
+    max-width: 1200px; /* Adjust based on your layout */
+    list-style: none;
+    padding: 20px 0;
+}
+.timeline::after {
+    content: '';
+    position: absolute;
+    width: 6px;
+    background-color: #f1f1f1;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    margin-left: -3px;
+}
+.container {
+    padding: 10px 40px;
+    position: relative;
+    background-color: inherit;
+    width: 50%;
+}
+.container.left {
+    left: 0;
+}
+.container.right {
+    left: 50%;
+}
+.content {
+    padding: 20px 30px;
+    background-color: #fff;
+    position: relative;
+    border-radius: 6px;
+    border: 1px solid #ddd;
+}
+@media screen and (max-width: 600px) {
+  .container {
+      width: 100%;
+      padding-left: 70px;
+      padding-right: 25px;
+  }
+  .container.left, .container.right {
+      left: 0;
+  }
+}
+</style>
+
+<ul class="timeline">
+    <li class="container left">
+        <div class="content">
+            <h2>2024</h2>
+            <p>Presented at Quantum Tech Conference on improving qubit reliability.</p>
+        </div>
+    </li>
+    <li class="container right">
+        <div class="content">
+            <h2>2023</h2>
+            <p>Published paper on Quantum Error Correction in the Journal of Quantum Computing.</p>
+        </div>
+    </li>
+    <li class="container left">
+        <div class="content">
+            <h2>2022</h2>
+            <p>Developed a new algorithm for scalable quantum neural networks, presented findings at ICCAD.</p>
+        </div>
+    </li>
+</ul>
+
 Publications
 ======
 \* means equal contribution
