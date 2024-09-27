@@ -14,11 +14,12 @@ I am a fifth-year PhD candidate in the Department of Computer Science at [Willia
 Publications
 ======
 
-## Conference Papers
+Conference Papers
+------
 
-> Detecting Fraudulent Services on Quantum Cloud Platforms via Dynamic Fingerprinting
-> **Jindi Wu**, Tianjie Hu, and Qun Li
-> _43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24)_ \| [Paper](https://arxiv.org/pdf/2408.11203)
+> Detecting Fraudulent Services on Quantum Cloud Platforms via Dynamic Fingerprinting  
+> **Jindi Wu**, Tianjie Hu, and Qun Li  
+> _43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24)_ \| [Paper](https://arxiv.org/pdf/2408.11203)  
 
 
 
