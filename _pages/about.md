@@ -21,9 +21,10 @@ Professional Experience
         background-color: #f8f9fa; /* Light grey background */
         color: #333; /* Dark grey text color */
         padding: 10px 20px;
-        margin: 00px;
+        margin: 20px;
         font-style: normal;
     }
+  
   .green-quote {
         border-left: 4px solid #92e6a7; /* Orange border */
         background-color: #f8f9fa; /* Light grey background */
