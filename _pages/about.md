@@ -21,33 +21,42 @@ Professional Experience
         background-color: #f8f9fa; /* Light grey background */
         color: #333; /* Dark grey text color */
         padding: 10px 20px;
+        margin: 00px;
+        font-style: normal;
+    }
+  .green-quote {
+        border-left: 4px solid #92e6a7; /* Orange border */
+        background-color: #f8f9fa; /* Light grey background */
+        color: #333; /* Dark grey text color */
+        padding: 10px 20px;
         margin: 20px;
+      font-style: normal;
     }
 </style>
 
 <blockquote class="blue-quote">
-Research Assistant (Sep 2020 - Present) <br>
+**Research Assistant** (Sep 2020 - Present) <br>
 &nbsp; &nbsp; Department of Computer Science, William & Mary <br>
 &nbsp; &nbsp; Advisor: Prof. Qun Li <br>
 &nbsp; &nbsp; Quantum Computing and Federated Learning
 </blockquote>
 
 <blockquote class="blue-quote">
-Graduate Assistant (May 2019 - Sep. 2020) <br>
+**Graduate Assistant** (May 2019 - Sep. 2020) <br>
 &nbsp; &nbsp; Machine Learning Lab, Syracuse University <br>
 &nbsp; &nbsp; Advisor: Prof. Qinru Qiu <br>
 &nbsp; &nbsp; UAV Trajectory Planning and Real-time Simulation
 </blockquote>
 
 <blockquote class="blue-quote">
-Graduate Assistant (Mar. 2019 - Jan. 2020) <br>
+**Graduate Assistant** (Mar. 2019 - Jan. 2020) <br>
 &nbsp; &nbsp; Data Lab Lab, Syracuse University <br>
 &nbsp; &nbsp; Advisor: Prof. Reza Zafarani and Dr. Xinyi Zhou <br>
 &nbsp; &nbsp; Fake News Detection
 </blockquote>
 
 <blockquote class="blue-quote">
-Undergraduate Assistant (Mar. 2019 - Jan. 2020) <br>
+**Undergraduate Assistant** (Mar. 2019 - Jan. 2020) <br>
 &nbsp; &nbsp; Intelligent Aviation Computing Systems Lab, Nanjing University of Aeronautics and Astronautics <br>
 &nbsp; &nbsp; Advisor: Prof. Lisong Wang <br>
 &nbsp; &nbsp; Development of Safety-Critical Software
@@ -57,15 +66,6 @@ Publications
 ======
 \* means equal contribution
 
-<style>
-    .green-quote {
-        border-left: 4px solid #92e6a7; /* Orange border */
-        background-color: #f8f9fa; /* Light grey background */
-        color: #333; /* Dark grey text color */
-        padding: 10px 20px;
-        margin: 20px;
-    }
-</style>
 
 Conference Papers
 ------
