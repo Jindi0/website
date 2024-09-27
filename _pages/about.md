@@ -17,7 +17,7 @@ Professional Experience
 
 <style>
     .blue-quote {
-        border-left: 4px solid #0077b6; /* Orange border */
+        border-left: 4px solid #64b5f6; /* Orange border */
         background-color: #f8f9fa; /* Light grey background */
         color: #333; /* Dark grey text color */
         padding: 10px 20px;
@@ -26,26 +26,32 @@ Professional Experience
 </style>
 
 <blockquote class="blue-quote">
-> *Research Assistant* (Sep 2020 - Present) <br>
-> &nbsp; &nbsp; Department of Computer Science, William & Mary <br>
-> &nbsp; &nbsp; Advisor: Prof. Qun Li <br>
-> &nbsp; &nbsp; Quantum Computing and Federated Learning
+Research Assistant (Sep 2020 - Present) <br>
+&nbsp; &nbsp; Department of Computer Science, William & Mary <br>
+&nbsp; &nbsp; Advisor: Prof. Qun Li <br>
+&nbsp; &nbsp; Quantum Computing and Federated Learning
 </blockquote>
 
-> Graduate Assistant (May 2019 - Sep. 2020) <br>
-> &nbsp; &nbsp; Machine Learning Lab, Syracuse University <br>
-> &nbsp; &nbsp; Advisor: Prof. Qinru Qiu <br>
-> &nbsp; &nbsp; UAV Trajectory Planning and Real-time Simulation
+<blockquote class="blue-quote">
+Graduate Assistant (May 2019 - Sep. 2020) <br>
+&nbsp; &nbsp; Machine Learning Lab, Syracuse University <br>
+&nbsp; &nbsp; Advisor: Prof. Qinru Qiu <br>
+&nbsp; &nbsp; UAV Trajectory Planning and Real-time Simulation
+</blockquote>
 
-> Graduate Assistant (Mar. 2019 - Jan. 2020) <br>
-> &nbsp; &nbsp; Data Lab Lab, Syracuse University <br>
-> &nbsp; &nbsp; Advisor: Prof. Reza Zafarani and Dr. Xinyi Zhou <br>
-> &nbsp; &nbsp; Fake News Detection
+<blockquote class="blue-quote">
+Graduate Assistant (Mar. 2019 - Jan. 2020) <br>
+&nbsp; &nbsp; Data Lab Lab, Syracuse University <br>
+&nbsp; &nbsp; Advisor: Prof. Reza Zafarani and Dr. Xinyi Zhou <br>
+&nbsp; &nbsp; Fake News Detection
+</blockquote>
 
-> Undergraduate Assistant (Mar. 2019 - Jan. 2020) <br>
-> &nbsp; &nbsp; Intelligent Aviation Computing Systems Lab, Nanjing University of Aeronautics and Astronautics <br>
-> &nbsp; &nbsp; Advisor: Prof. Lisong Wang <br>
-> &nbsp; &nbsp; Development of Safety-Critical Software
+<blockquote class="blue-quote">
+Undergraduate Assistant (Mar. 2019 - Jan. 2020) <br>
+&nbsp; &nbsp; Intelligent Aviation Computing Systems Lab, Nanjing University of Aeronautics and Astronautics <br>
+&nbsp; &nbsp; Advisor: Prof. Lisong Wang <br>
+&nbsp; &nbsp; Development of Safety-Critical Software
+</blockquote>
 
 Publications
 ======
