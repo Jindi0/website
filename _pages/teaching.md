@@ -12,8 +12,3 @@ William & Mary, Sep. 2020 - May 2022
 - CSCI 304 Computer Organization, Spring 2021
 - CSCI 301 Software Development, Fall 2020
 
-{% include base_path %}
-
-{% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
