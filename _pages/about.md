@@ -77,8 +77,8 @@ Conference Papers
 Detecting Fraudulent Services on Quantum Cloud Platforms via Dynamic Fingerprinting <br>
 <strong>Jindi Wu</strong>, Tianjie Hu, and Qun Li <br> 
 <em>43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24)
-<!--   <a href="[https://ixstudio.net](https://arxiv.org/pdf/2408.11203)">Paper</a> -->
 </blockquote>
+<!--   <a href="[https://ixstudio.net](https://arxiv.org/pdf/2408.11203)">Paper</a> -->
 
 <blockquote class="green-quote">
 Quantum Network Routing Based on Surface Code Error Correction <br>
