@@ -80,9 +80,9 @@ Honors & Awards
 
 Community Service
 ======
-- **Graduate Chaperone:** Grace Hopper Celebration 2023 (GHC'23)
 - **Program Committee (Workshop):** QCE'23
 - **PhD Forum Co-chair:** SEC'22
+- **Graduate Chaperone:** Grace Hopper Celebration 2023 (GHC'23)
 - **Reviewer (Contest):** ICCAD'23
 - **Reviewer (Conference, Journal, and Magazine):** ESWA'24/23, IEEE Internet Computing'24/23, IEEE Network Magazine'24, IEEE Internet of Things Journal'23, APIN'23, QCE'23, IEEE Transactions on Computers'23/22/21, CNS'22, JRIE'22 
   
