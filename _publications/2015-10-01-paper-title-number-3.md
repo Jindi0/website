@@ -16,3 +16,22 @@ text
 
 -->
 
+<style>
+    .blue-quote {
+        border-left: 4px solid #ffb563; /* Orange border */
+        background-color: #f8f9fa; /* Light grey background */
+        color: #333; /* Dark grey text color */
+        padding: 10px 10px;
+        margin: 10px;
+        font-style: normal;
+    }
+  
+  .green-quote {
+        border-left: 4px solid #9cc5a1; /* Orange border */
+        background-color: #f8f9fa; /* Light grey background */
+        color: #333; /* Dark grey text color */
+        padding: 10px 10px;
+        margin: 10px;
+      font-style: normal;
+    }
+</style>
