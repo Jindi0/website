@@ -78,7 +78,6 @@ Detecting Fraudulent Services on Quantum Cloud Platforms via Dynamic Fingerprint
 <strong>Jindi Wu</strong>, Tianjie Hu, and Qun Li <br> 
 <em>43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24)<\em> | 
   <a href="[https://ixstudio.net](https://arxiv.org/pdf/2408.11203)">Paper</a>
-<!--   [Paper](https://arxiv.org/pdf/2408.11203) -->
 </blockquote>
 
 <blockquote class="green-quote">
