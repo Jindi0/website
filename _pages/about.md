@@ -76,7 +76,7 @@ Conference Papers
 <blockquote class="green-quote">
 Detecting Fraudulent Services on Quantum Cloud Platforms via Dynamic Fingerprinting <br>
 <strong>Jindi Wu</strong>, Tianjie Hu, and Qun Li <br> 
-43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24) \| 
+<em>43rd IEEE/ACM International Conference on Computer-Aided Design (ICCAD'24)<\em> | 
   <a href="[https://ixstudio.net](https://arxiv.org/pdf/2408.11203)">Paper</a>
 <!--   [Paper](https://arxiv.org/pdf/2408.11203) -->
 </blockquote>
@@ -84,7 +84,7 @@ Detecting Fraudulent Services on Quantum Cloud Platforms via Dynamic Fingerprint
 <blockquote class="green-quote">
 Quantum Network Routing Based on Surface Code Error Correction <br>
 Tianjie Hu, <strong>Jindi Wu</strong>, and Qun Li <br> 
-44th IEEE International Conference on Distributed Computing Systems (ICDCS'24) \| 
+44th IEEE International Conference on Distributed Computing Systems (ICDCS'24) | 
   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10631008">Paper</a>
 <!--   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10631008)   -->
 </blockquote>
@@ -92,7 +92,7 @@ Tianjie Hu, <strong>Jindi Wu</strong>, and Qun Li <br>
 <blockquote class="green-quote">
 MORE: Measurement and Correlation-based Variational Quantum Circuit for Multi-classification <br>
 <strong>Jindi Wu</strong>, Tianjie Hu, and Qun Li <br> 
-4th IEEE International Conference on Quantum Computing and Engineering (QCE'23) \| 
+4th IEEE International Conference on Quantum Computing and Engineering (QCE'23) | 
   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10313792">Paper</a>
 <!--   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10313792) -->
 </blockquote>
@@ -100,7 +100,7 @@ MORE: Measurement and Correlation-based Variational Quantum Circuit for Multi-cl
 <blockquote class="green-quote">
 Laws: Look around and warm-start natural gradient descent for quantum neural networks <br>
 Zeyi Tao, <strong>Jindi Wu</strong>, and Qun Li <br> 
-2rd IEEE International Conference on Quantum Software (QSW'23) \| 
+2rd IEEE International Conference on Quantum Software (QSW'23) | 
   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234243">Paper</a>
 <!--   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10234243)   -->
 </blockquote>
@@ -108,7 +108,7 @@ Zeyi Tao, <strong>Jindi Wu</strong>, and Qun Li <br>
 <blockquote class="green-quote">
 Scalable Quantum Neural Networks for Classification <br>
 <strong>Jindi Wu</strong>, Zeyi Tao, and Qun Li <br> 
-3rd IEEE International Conference on Quantum Computing and Engineering (QCE'22) \| 
+3rd IEEE International Conference on Quantum Computing and Engineering (QCE'22) | 
   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9951212">Paper</a>
 <!--   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9951212) -->
 </blockquote>
@@ -116,7 +116,7 @@ Scalable Quantum Neural Networks for Classification <br>
 <blockquote class="green-quote">
 Efficient Privacy-Preserving Federated Learning for Resource-Constrained Edge Devices <br>
 <strong>Jindi Wu</strong>, Qi Xia, and Qun Li <br> 
-17th International Conference on Mobility, Sensing and Networking (MSN'21) \| 
+17th International Conference on Mobility, Sensing and Networking (MSN'21) | 
   <a href="https://par.nsf.gov/servlets/purl/10358911">Paper</a>
 <!--   [Paper](https://par.nsf.gov/servlets/purl/10358911) -->
 </blockquote>
@@ -124,7 +124,7 @@ Efficient Privacy-Preserving Federated Learning for Resource-Constrained Edge De
 <blockquote class="green-quote">
 SAFE: Similarity-aware multi-modal fake news detection <br>
 Xinyi Zhou\*, <strong>Jindi Wu</strong>\*, and Reza Zafarani <br> 
-24th Pacific-Asia Conference on knowledge discovery and data mining (PAKDD'20) \| 
+24th Pacific-Asia Conference on knowledge discovery and data mining (PAKDD'20) | 
   <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206257/">Paper</a>
 <!--   [Paper](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7206257/) -->
 </blockquote>
@@ -138,7 +138,7 @@ Journal & Magazine Articles
 <blockquote class="green-quote">
 Q-ID: Lightweight Quantum Network Server Identification through Fingerprinting <br>
 <strong>Jindi Wu</strong>, Tianjie Hu, and Qun Li <br> 
-IEEE Network (2024) \| 
+IEEE Network (2024) | 
   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10530432">Paper</a>
 <!--   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10530432) -->
 </blockquote>
@@ -146,7 +146,7 @@ IEEE Network (2024) \|
 <blockquote class="green-quote">
 Distributed Quantum Machine Learning: Federated and Model-Parallel Approaches <br>
 <strong>Jindi Wu</strong>, Tianjie Hu, and Qun Li <br> 
-IEEE Internet Computing 28.2 (2024): 65-72. \| 
+IEEE Internet Computing 28.2 (2024): 65-72. | 
   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10508212">Paper</a>
 <!--   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10508212) -->
 </blockquote>
@@ -154,7 +154,7 @@ IEEE Internet Computing 28.2 (2024): 65-72. \|
 <blockquote class="green-quote">
 SurfaceNet: Fault-Tolerant Quantum Networks with Surface Codes <br>
 Tianjie Hu, <strong>Jindi Wu</strong>, and Qun Li <br> 
-IEEE Network (2023) \| 
+IEEE Network (2023) | 
   <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10288502">Paper</a>
 <!--   [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10288502) -->
 </blockquote>
@@ -162,13 +162,16 @@ IEEE Network (2023) \|
 <blockquote class="green-quote">
 A survey of federated learning for edge computing: Research problems and solutions <br>
 Qi Xia, Winson Ye, Zeyi Tao, <strong>Jindi Wu</strong>, and Qun Li <br> 
-High-Confidence Computing 1.1 (2021): 100008. (HCC'21) \| 
+High-Confidence Computing 1.1 (2021): 100008. (HCC'21) | 
   <a href="https://www.sciencedirect.com/science/article/pii/S266729522100009X">Paper</a>
 <!--   [Paper](https://www.sciencedirect.com/science/article/pii/S266729522100009X) -->
 </blockquote>
 
-Poster
-------
+<br>
+<br>
+
+Honors & Awards
+======
 
 
 
