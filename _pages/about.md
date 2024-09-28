@@ -65,7 +65,7 @@ Professional Experience
 
 <br>
 <br>
-
+<!-- 
 Publications
 ======
 \* means equal contribution
@@ -168,7 +168,7 @@ High-Confidence Computing 1.1 (2021): 100008. (HCC'21)
 
 <br>
 <br>
-
+-->
 Honors & Awards
 ======
 - W&M International Student Opportunity Scholarship, 2023
