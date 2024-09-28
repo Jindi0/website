@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching Assistant
+## Teaching Assistant
 William & Mary, Sep. 2020 - May 2022
 - CSCI 303 Algorithms, Spring 2022
 - CSCI 416 Introduction to Machine Learning, Fall 2021
