@@ -28,6 +28,8 @@ author_profile: true
   
 </style>
 
+<br>
+<br>
 
 <blockquote class="green-quote">
 MORE: Measurement and Correlation-based Variational Quantum Circuit for Multi-classification <br>
