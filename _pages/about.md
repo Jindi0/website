@@ -51,7 +51,7 @@ Professional Experience
 
 <blockquote class="blue-quote">
 <strong>Graduate Assistant</strong> (Mar. 2019 - Jan. 2020) <br>
-&nbsp; &nbsp; Data Lab Lab, Syracuse University <br>
+&nbsp; &nbsp; Data Lab, Syracuse University <br>
 &nbsp; &nbsp; Advisor: Prof. Reza Zafarani and Dr. Xinyi Zhou <br>
 &nbsp; &nbsp; Fake News Detection
 </blockquote>
