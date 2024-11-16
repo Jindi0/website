@@ -70,6 +70,7 @@ Professional Experience
 
 Honors & Awards
 ======
+- W&M Graduate Research Seed Grants, 2024
 - W&M International Student Opportunity Scholarship, 2023
 - SEC’22 Travel Grant, 2022
 - High-Confidence Computing (HCC) 2021 Best Paper Award, 2021
