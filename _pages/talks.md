@@ -32,6 +32,12 @@ author_profile: true
 <br>
 
 <blockquote class="green-quote">
+Detecting Fraudulent Services on Quantum Cloud Platforms via Dynamic Fingerprinting <br>
+ICCAD'24, Newark, New Jersey
+</blockquote>
+
+
+<blockquote class="green-quote">
 MORE: Measurement and Correlation-based Variational Quantum Circuit for Multi-classification <br>
 QCE'23, Bellevue, Washington
 </blockquote>
