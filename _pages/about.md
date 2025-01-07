@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth-year PhD candidate in the Department of Computer Science at [William & Mary](https://www.wm.edu/), working under the supervision of [Prof. Qun Li](https://www.cs.wm.edu/~liqun/). Before joining William & Mary, I earned my M.S. in Computer Science from Syracuse University and a B.S. in Information Security from Nanjing University of Aeronautics and Astronautics (NUAA). My research focuses on quantum error formalization and mitigation, quantum machine learning, and edge computing.
+I am a fifth-year PhD candidate in the Department of Computer Science at [William & Mary](https://www.wm.edu/), working under the supervision of [Prof. Qun Li](https://www.cs.wm.edu/~liqun/). Before joining William & Mary, I earned my M.S. in Computer Science from Syracuse University and a B.S. in Information Security from Nanjing University of Aeronautics and Astronautics (NUAA). My research focuses on quantum machine learning, quantum error modeling and mitigation, quantum circuit compilation, quantum networking, and the security and privacy aspects of quantum computing.
 
 <br>
 <br>
