@@ -21,7 +21,7 @@ repository               : "Jindi0/jindi0.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jindi.JPG"
+  avatar           : "jindi.png"
   name             : "Jindi Wu"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate, Computer Science"
